@@ -1,0 +1,2 @@
+Expense_ID,Date,Category,Amount,Description,Payment_Method,Tags,Notes,Recurring,Outlier_Z_Score,Is_Outlier,YearMonth,Month,Week,DayOfMonth,DayOfWeek,DayOfWeekNum,IsWeekend,SpendingLevel,CategoryAverage,CategoryRatio,CumulativeMonthlySpend,Is_High_Spending,Is_Category_Anomaly
+EXP-0012,2024-01-27,Healthcare,6000.0,Dental care,Debit Card,essential; health,,False,2.144,True,2024-01,Jan,4,27,Saturday,5,True,High,2755.161111111111,2.178,53153.88,True,True

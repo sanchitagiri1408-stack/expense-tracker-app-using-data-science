@@ -1,0 +1,23 @@
+EXPENSE TRACKER — SYNTHETIC DATA ANALYSIS REPORT
+====================================================
+This report describes generated demo data. It is not financial advice.
+
+Date range: 2024-01-01 to 2024-06-30
+Transactions: 100
+Total spend: ₹324,474.09
+Average transaction: ₹3,244.74
+Median transaction: ₹1,602.44
+
+KEY INSIGHTS
+- The synthetic sample contains 100 transactions totaling ₹324,474.09.
+- Rent is the largest category at ₹116,409.26 (35.9% of total spend).
+- 2024-04 is the peak month at ₹78,688.79 in this generated sample.
+- Monday has the highest observed total spending at ₹67,017.45.
+- Weekend transactions represent 29.1% of total spend; use this as a planning signal, not a universal behavioral claim.
+- Months above the simple educational baseline: 2024-04.
+- 1 transaction(s) were flagged for review using a category-relative outlier rule; flags do not imply fraud.
+- Bank Transfer is the largest payment channel by value at ₹131,720.62.
+
+NEXT QUESTIONS
+- Compare the sample with a user-defined budget and reporting period.
+- Review every flagged transaction using source context before taking action.

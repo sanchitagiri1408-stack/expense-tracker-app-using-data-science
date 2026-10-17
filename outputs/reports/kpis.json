@@ -1,0 +1,76 @@
+{
+  "total_expenses": 324474.09,
+  "average_transaction": 3244.74,
+  "median_transaction": 1602.44,
+  "std_deviation": 4853.33,
+  "min_transaction": 110.68,
+  "max_transaction": 19689.2,
+  "transaction_count": 100,
+  "unique_categories": 9,
+  "unique_payment_methods": 5,
+  "date_range_days": 182,
+  "average_daily_spending": 1782.82,
+  "weekend_spend_percentage": 29.05,
+  "start_date": "2024-01-01",
+  "end_date": "2024-06-30",
+  "distribution": {
+    "q25": 664.6,
+    "median": 1602.44,
+    "q75": 3307.84,
+    "q90": 6319.5,
+    "q95": 18836.89
+  },
+  "high_low": {
+    "high_threshold": 3307.84,
+    "high_count": 25,
+    "high_total": 230665.67,
+    "low_threshold": 664.6,
+    "low_count": 25,
+    "low_total": 9102.95
+  },
+  "anomalies": {
+    "flagged_count": 1,
+    "flagged_total": 6000.0,
+    "flagged_records": [
+      {
+        "Expense_ID": "EXP-0012",
+        "Date": "2024-01-27 00:00:00",
+        "Category": "Healthcare",
+        "Amount": 6000.0,
+        "Description": "Dental care",
+        "Payment_Method": "Debit Card",
+        "Tags": "essential; health",
+        "Notes": "",
+        "Recurring": false,
+        "Outlier_Z_Score": 2.144,
+        "Is_Outlier": true,
+        "YearMonth": "2024-01",
+        "Month": "Jan",
+        "Week": 4,
+        "DayOfMonth": 27,
+        "DayOfWeek": "Saturday",
+        "DayOfWeekNum": 5,
+        "IsWeekend": true,
+        "SpendingLevel": "High",
+        "CategoryAverage": 2755.161111111111,
+        "CategoryRatio": 2.178,
+        "CumulativeMonthlySpend": 53153.88,
+        "Is_High_Spending": true,
+        "Is_Category_Anomaly": true
+      }
+    ],
+    "highest_transaction": {
+      "amount": 19689.2,
+      "category": "Rent",
+      "date": "2024-04-01",
+      "description": "Monthly rent"
+    },
+    "lowest_transaction": {
+      "amount": 110.68,
+      "category": "Transportation",
+      "date": "2024-01-30",
+      "description": "Bus pass"
+    }
+  },
+  "monthly_baseline": 54079.02
+}

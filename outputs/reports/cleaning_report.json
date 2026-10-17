@@ -1,0 +1,23 @@
+{
+  "missing_values_before": {},
+  "missing_values": 0,
+  "exact_duplicates_removed": 0,
+  "duplicate_ids_removed": 0,
+  "duplicates_removed": 0,
+  "invalid_amounts_removed": 0,
+  "invalid_amounts_before": 0,
+  "invalid_amounts": 0,
+  "amount_rows_before_validation": 100,
+  "invalid_dates_removed": 0,
+  "invalid_dates": 0,
+  "missing_dates_removed": 0,
+  "old_dates_removed": 0,
+  "future_dates_removed": 0,
+  "date_rows_before_validation": 100,
+  "outliers_detected": 1,
+  "initial_rows": 100,
+  "final_rows": 100,
+  "rows_removed_total": 0,
+  "final_missing_values": {},
+  "data_quality_score": 100.0
+}

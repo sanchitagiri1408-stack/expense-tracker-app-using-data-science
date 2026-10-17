@@ -1,0 +1,61 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter local state
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Generated local data
+# Keep the directory placeholder; force-add a reviewed synthetic fixture only when useful.
+data/*.csv
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Local logs and temporary runtime files
+*.log
+*.tmp
+*.temp
+outputs/**/*.log
+outputs/**/*.tmp
+outputs/**/.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+secrets/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build/package artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Keep source, docs, notebooks, images, and the outputs/ directory trackable.
+# Curated PNG charts under outputs/charts/ are intentionally not ignored.

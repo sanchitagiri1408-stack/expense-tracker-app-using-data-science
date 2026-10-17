@@ -1,0 +1,10 @@
+Category,Monthly_Average,Peak_Monthly_Total,Is_Above_Baseline
+Education,12562.47,23406.03,True
+Entertainment,3434.58,4871.13,True
+Food & Dining,1971.86,3823.05,True
+Healthcare,4959.29,8361.45,True
+Other,391.49,391.49,False
+Rent,19401.54,19689.2,False
+Shopping,8198.04,11398.35,True
+Transportation,1363.16,2326.28,True
+Utilities,6051.75,10036.89,True

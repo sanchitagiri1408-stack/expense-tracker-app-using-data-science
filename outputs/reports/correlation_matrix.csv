@@ -1,0 +1,5 @@
+,Amount,DayOfMonth,MonthNumber,DayOfWeekNumber
+Amount,1.0,-0.334,-0.025,-0.071
+DayOfMonth,-0.334,1.0,-0.012,0.135
+MonthNumber,-0.025,-0.012,1.0,0.119
+DayOfWeekNumber,-0.071,0.135,0.119,1.0
